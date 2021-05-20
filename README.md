@@ -30,5 +30,5 @@ Access the webpage here:
 
 ## Images
 
-![Screenshot of Horiseon webpage.](./Assets/code-refactor-screenshot.png)
+![Screenshot of Horiseon webpage.](assets/code-refactor-screenshot.png)
 
